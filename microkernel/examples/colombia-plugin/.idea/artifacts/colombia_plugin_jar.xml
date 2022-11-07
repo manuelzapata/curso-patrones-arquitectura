@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="colombia-plugin:jar">
+    <output-path>$PROJECT_DIR$/../out/artifacts/jar/plugins</output-path>
+    <root id="archive" name="colombia-plugin.jar">
+      <element id="module-output" name="colombia-plugin" />
+    </root>
+  </artifact>
+</component>

@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact name="plugin.properties">
+    <output-path>$PROJECT_DIR$/out/artifacts/jar</output-path>
+    <root id="root">
+      <element id="file-copy" path="$PROJECT_DIR$/core/src/main/resources/plugin.properties" />
+    </root>
+  </artifact>
+</component>
