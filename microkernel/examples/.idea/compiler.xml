@@ -12,9 +12,9 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="common" target="1.5" />
-      <module name="core" target="7" />
-      <module name="mexico-plugin" target="1.5" />
+      <module name="common" target="11" />
+      <module name="core" target="11" />
+      <module name="mexico-plugin" target="11" />
     </bytecodeTargetLevel>
   </component>
 </project>
