@@ -7,6 +7,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="scratch-event-driven" />
+        <module name="scratch" />
       </profile>
     </annotationProcessing>
   </component>
