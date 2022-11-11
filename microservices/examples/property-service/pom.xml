@@ -39,7 +39,7 @@
         <dependency>
             <groupId>org.xerial</groupId>
             <artifactId>sqlite-jdbc</artifactId>
-            <version>3.25.2</version>
+            <version>3.39.3.0</version>
         </dependency>
 
 
@@ -50,6 +50,7 @@
             <plugin>
                 <groupId>org.springframework.boot</groupId>
                 <artifactId>spring-boot-maven-plugin</artifactId>
+                <version>${project.parent.version}</version>
             </plugin>
         </plugins>
     </build>
