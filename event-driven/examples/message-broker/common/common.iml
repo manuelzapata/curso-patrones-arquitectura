@@ -9,10 +9,5 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="library" name="Maven: com.rabbitmq:amqp-client:5.16.0" level="project" />
-    <orderEntry type="library" name="Maven: org.slf4j:slf4j-api:2.0.3" level="project" />
-    <orderEntry type="library" name="Maven: org.slf4j:slf4j-simple:2.0.3" level="project" />
-    <orderEntry type="library" name="Maven: com.google.code.gson:gson:2.10" level="project" />
-    <orderEntry type="module" module-name="common" />
   </component>
 </module>
